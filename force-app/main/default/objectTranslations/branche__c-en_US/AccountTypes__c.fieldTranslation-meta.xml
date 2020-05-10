@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- AccountTypes --></label>
+    <name>AccountTypes__c</name>
+    <picklistValues>
+        <masterLabel>Current Account</masterLabel>
+        <translation><!-- Current Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Saving Account</masterLabel>
+        <translation><!-- Saving Account --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
